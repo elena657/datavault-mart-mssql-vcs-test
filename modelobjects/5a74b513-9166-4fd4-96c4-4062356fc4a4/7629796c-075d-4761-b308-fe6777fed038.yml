@@ -85,7 +85,7 @@ terms:
     name: 'DESCRIPTION'
     dataType:
       platformDataTypeId: '9245c3e9-05f8-4e48-962c-e1b3c49bc239'
-      length: 400
+      length: 900
     isIdentity: false
     isBusinessKey: false
     isForeignKey: false
